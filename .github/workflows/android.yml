@@ -30,4 +30,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with: 
        name: 20230919_github_actions_test
-       path: ./build/outputs/apk/debug/app-debug.apk
+       path: ./app/build/outputs/apk/debug/app-debug.apk
